@@ -78,7 +78,7 @@ const Childmodel = mongoose.model('child', childSchema);
 
 
 
-export default { 
+export { 
     Childmodel ,
     Mediamodel 
 };
